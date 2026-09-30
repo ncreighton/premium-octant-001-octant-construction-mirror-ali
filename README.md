@@ -1,0 +1,2 @@
+# premium-octant-001-octant-construction-mirror-ali
+Stop losing hours to manual mirror alignment calculations and scattered sticky notes—your octagon projects deserve a single source of truth.  The Octant Construction Mirror Alignment Manager is Notion’s first dedicated workspace for octant mirror setups. It replaces messy spreadsheets and guesswork with a structured database that auto-calculates al
